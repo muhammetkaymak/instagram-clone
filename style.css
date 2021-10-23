@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-middlearea{
+    margin-top: 90px;
+}
+
+.icons{
+    padding: 5px;
+}
+
+#menu{
+    float: left;
+}
+
+.row{
+    display: flex;
+}
+
